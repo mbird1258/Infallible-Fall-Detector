@@ -10,7 +10,7 @@ NAME = "Ascensional"
 current_lang = 0  # 0=eng, 1=chi
 users = [['user', 'User1234', [12345678], [150, 30]]]
 
-path_to_file_location = r"/Users/ ... /FINAL PROJECT/" #edit upon downloading code
+path_to_file_location = r"/Users/ ... /Infallible-Fall-Detector/" #edit upon downloading code
 
 
 # ---------------------used every page-------------------------
