@@ -10,7 +10,7 @@ NAME = "Ascensional"
 current_lang = 0  # 0=eng, 1=chi
 users = [['user', 'User1234', [12345678], [150, 30]]]
 
-path_to_file_location = r"/Users/matthewbird/Documents/Python Code/HKAGE/FINAL PROJECT/"
+path_to_file_location = r"/Users/ ... /" #edit upon downloading code
 
 
 # ---------------------used every page-------------------------
